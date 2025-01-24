@@ -23,6 +23,7 @@ If you have any questions about this Privacy Policy, feel free to contact us at:
 
 ### License
 https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
 Email: **jameslibusiness@outlook.com**
 
 ## Questions and support
