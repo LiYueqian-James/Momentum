@@ -18,7 +18,7 @@ Our app does not integrate with or use third-party services that collect or stor
 ### Changes to This Privacy Policy
 We may update this Privacy Policy occasionally to reflect changes in the app or legal requirements. Any updates will be effective immediately upon posting.
 
-###Contact Us
+### Contact Us
 If you have any questions about this Privacy Policy, feel free to contact us at:
 
 ### License
