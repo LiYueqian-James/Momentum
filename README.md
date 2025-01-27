@@ -29,3 +29,7 @@ Email: **jameslibusiness@outlook.com**
 ## Questions and support
 For questions and support, please email us at 
 **jameslibusiness@outlook.com**
+
+## Contributors
+Eason Wang easonxinranwang@gmail.com
+James Li yueqianlijames@outlook.com
