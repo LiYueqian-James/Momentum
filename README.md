@@ -1,4 +1,4 @@
-# Your-Momentum
+# Momentum: Free AI Habit Tracker
 
 Thank you for using Momentum!
 
