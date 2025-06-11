@@ -1,7 +1,3 @@
-It's great you're updating your privacy policy to reflect your new data collection practices! Here's a revised version that incorporates the collection of anonymous habit data while maintaining a strong commitment to user privacy.
-
----
-
 # Momentum: Free AI Habit Tracker
 
 Thank you for using Momentum!
@@ -31,6 +27,7 @@ The anonymous usage data we collect is used solely for internal purposes, such a
 * Analyzing trends in habit creation and tracking.
 * Improving the app's features and functionality.
 * Understanding general user behavior to make Momentum more effective.
+* Generating weekly reports within the app using Large Language Models (LLMs). **The data used for these reports is entirely anonymous and does not contain any personal or identifiable information.**
 
 ### Third-Party Services
 
